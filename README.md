@@ -6,7 +6,7 @@
     - [Sample Code](https://github.com/WISE-PaaS/iothub-k8s-training)
 2. Follow the steps during the course and push the project to namespace (assignment) in WISE-PaaS 
     - **deployment.yaml**
-<img src="src/img/sample_datasource.png" alt="sample_datasource" style="width: 500px;"/>
+![deployment](./img/deployment.png)
 
 
     - **index.js**
