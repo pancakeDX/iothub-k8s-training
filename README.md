@@ -1,20 +1,15 @@
 # iothub-k8s-training
 
-# Learning Steps
+# Introduction
+Download the sample code to modify the config files and deploy "Iothub-k8s-training" app to assignment namespace according to the example
 
-1. Download the sample code.
-    - [Sample Code](https://github.com/WISE-PaaS/iothub-k8s-training)
-2. Follow the steps during the course and push the project to namespace (assignment) in WISE-PaaS 
+1. modify the config files
     - **deployment.yaml**
 ![deployment](./img/deployment.png)
 
-
-    - **index.js**
-
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3280c675-c9d7-42d6-aa4b-17b2e35f6aba/Untitled_7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3280c675-c9d7-42d6-aa4b-17b2e35f6aba/Untitled_7.png)
+    - **index.yaml**
+![index](./img/index.png)
 
 # Assignment Requirement
 
-Provide the `topic` that you use in `index.js` so that we can test your work.
-
-Example： `greeting/dave/lee`
+Please submit your **Topic** and **Pod name**
