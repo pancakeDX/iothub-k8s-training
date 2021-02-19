@@ -10,6 +10,9 @@ Download the sample code to modify the config files and deploy "Iothub-k8s-train
 - **index.yaml**
 ![index](./img/index.png)
 
+## Use MQTT to send messages
+![mqttbox](./img/mqttbox.png)
+
 # 2. Assignment Requirement
 
 Please submit your **Topic** and **Pod name**
