@@ -1,7 +1,7 @@
 # iothub-k8s-training
 
 # Introduction
-Download the sample code to modify the config files and deploy "Iothub-k8s-training" app to assignment namespace according to the example
+Download the sample code to modify the config files and deploy "Iothub-k8s-training" app to assignment namespace
 
 ## Modify the config files
 - **deployment.yaml**
