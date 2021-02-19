@@ -13,4 +13,4 @@ Download the sample code to modify the config files and deploy "Iothub-k8s-train
 # Assignment Requirement
 
 Please submit your **Topic** and **Pod name**
-![iot-hub](./img/iot-hub.png)
+![assignment](./img/assignment.png)
