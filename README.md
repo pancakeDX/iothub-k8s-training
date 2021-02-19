@@ -4,10 +4,10 @@
 Download the sample code to modify the config files and deploy "Iothub-k8s-training" app to assignment namespace according to the example
 
 ## Modify the config files
-    - **deployment.yaml**
+- **deployment.yaml**
 ![deployment](./img/deployment.png)
 
-    - **index.yaml**
+- **index.yaml**
 ![index](./img/index.png)
 
 # Assignment Requirement
