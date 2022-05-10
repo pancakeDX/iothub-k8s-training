@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: iothub-k8s-dave-lee
+  name: iothub-k8s-wilson-liao
   labels:
     name: assignment
 spec:
@@ -10,16 +10,16 @@ spec:
   selector:
     matchLabels:
       component: iothub
-      student: dave-lee
+      student: wilson-liao
   template:
     metadata:
       labels:
         component: iothub
-        student: dave-lee
+        student: wilson-liao
     spec:
       containers:
         - name: mqtt
-          image: ensaas/iothub-demo:0.8.0
+          image: wilsonliao/iothub-demo:0.0.1
           resources:
             limits:
               cpu: 20m

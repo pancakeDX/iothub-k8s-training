@@ -9,7 +9,7 @@ const mqttUri = rabbitmqCreds.protocols.mqtt.uri;
  * Connects to IotHub and Subcribes to the topic when the connection is made.
  */
 const client = mqtt.connect(mqttUri);
-const topic = 'greeting/sk/chen';     // Sets the topic to subscribe -> greeting/firsName/lastName
+const topic = 'greeting/wilson/liao';     // Sets the topic to subscribe -> greeting/firsName/lastName
 
 client.on('connect', (connack) => {
   logger('Connected to IoTHub');
